@@ -63,8 +63,8 @@ I'm a **Cybersecurity Professional** with over 3 years of experience, transition
 
 ## 📢 Let's Connect!
 
-- **LinkedIn**: [Manoj Kumar Chollangi](https://www.linkedin.com/in/manoj-kumar-chollangi/) ![LinkedIn GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-- **GitHub**: [chollangimanojkumar](https://github.com/chollangimanojkumar) ![GitHub GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+- **LinkedIn**: [Manoj Kumar Chollangi](https://www.linkedin.com/in/manoj-kumar-chollangi/) 
+- **GitHub**: [chollangimanojkumar](https://github.com/chollangimanojkumar) 
 - **Email**: chollangimanojkumar@gmail.com
 - **Website**: [www.miraclemanojkumar.com](http://www.miraclemanojkumar.com)
 
