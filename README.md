@@ -70,4 +70,4 @@ I'm a **Cybersecurity Professional** with over 3 years of experience, transition
 
 ---
 
-🚀 Open to opportunities in **vulnerability management**, **penetration testing**, and **offensive security**. ![Rocket GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+🚀 Open to opportunities in **vulnerability management**, **penetration testing**, and **offensive security**.
