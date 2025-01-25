@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-I'm a **Cybersecurity Professional** with over 3 years of experience, transitioning from Security Operations Center (SOC) roles to a specialization in **vulnerability management** and **penetration testing**. With a strong foundation in identifying, assessing, and mitigating vulnerabilities, I aim to drive proactive security improvements and reduce attack surfaces.
+I am **Cybersecurity Professional** with over 3 years of experience, transitioning from Security Operations Center (SOC) roles to a specialization in **vulnerability management** and **penetration testing**. With a strong foundation in identifying, assessing, and mitigating vulnerabilities, I aim to drive proactive security startegic improvements to reduce attack surfaces.
 
 ---
 
