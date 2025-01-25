@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Manoj Kumar Chollangi
 
-🌐 **Cybersecurity Professional | Vulnerability Management Specialist | Penetration Testing Enthusiast** ![Cybersecurity GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+🌐 **Cybersecurity Professional | Vulnerability Management Specialist | Penetration Testing Enthusiast** ![Cybersecurity GIF](https://www.123code.org/Pathway/cyber-security?gid=6)
 
 ---
 
